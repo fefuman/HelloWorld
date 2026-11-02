@@ -5,3 +5,5 @@ build-*/
 *.o
 *.obj
 *.pdb
+.vscode/launch.json
+.vscode/tasks.json
