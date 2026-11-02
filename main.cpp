@@ -6,6 +6,6 @@ int main() {
     a = 10;
     b = 20;
     sum = a + b;
-    cout << "Hello Ubuntu, I'm Windows!" << endl;
+    cout << "Hello Windows, I'm Ubuntu!" << endl;
     return 0;
 }
